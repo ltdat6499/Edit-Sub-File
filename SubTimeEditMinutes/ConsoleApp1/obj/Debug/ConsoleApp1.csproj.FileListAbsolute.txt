@@ -1,0 +1,14 @@
+C:\Users\dat64\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\dat64\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\dat64\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\dat64\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\dat64\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dat64\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\dat64\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Movie\SubTimeEditMinutes\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Movie\SubTimeEditMinutes\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Movie\SubTimeEditMinutes\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Movie\SubTimeEditMinutes\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Movie\SubTimeEditMinutes\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Movie\SubTimeEditMinutes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Movie\SubTimeEditMinutes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
